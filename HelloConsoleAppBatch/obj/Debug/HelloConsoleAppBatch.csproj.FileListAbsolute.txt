@@ -5,3 +5,10 @@ C:\Users\GregoreK\Documents\GitHub\Lab01\Lab01\Lab01\HelloConsoleAppBatch\obj\De
 C:\Users\GregoreK\Documents\GitHub\Lab01\Lab01\Lab01\HelloConsoleAppBatch\obj\Debug\HelloConsoleAppBatch.csproj.CoreCompileInputs.cache
 C:\Users\GregoreK\Documents\GitHub\Lab01\Lab01\Lab01\HelloConsoleAppBatch\obj\Debug\HelloConsoleAppBatch.exe
 C:\Users\GregoreK\Documents\GitHub\Lab01\Lab01\Lab01\HelloConsoleAppBatch\obj\Debug\HelloConsoleAppBatch.pdb
+C:\Users\GregoreK\Documents\GitHub\Lab01\Lab01\HelloConsoleAppBatch\bin\Debug\HelloConsoleAppBatch.exe.config
+C:\Users\GregoreK\Documents\GitHub\Lab01\Lab01\HelloConsoleAppBatch\bin\Debug\HelloConsoleAppBatch.exe
+C:\Users\GregoreK\Documents\GitHub\Lab01\Lab01\HelloConsoleAppBatch\bin\Debug\HelloConsoleAppBatch.pdb
+C:\Users\GregoreK\Documents\GitHub\Lab01\Lab01\HelloConsoleAppBatch\obj\Debug\HelloConsoleAppBatch.csprojAssemblyReference.cache
+C:\Users\GregoreK\Documents\GitHub\Lab01\Lab01\HelloConsoleAppBatch\obj\Debug\HelloConsoleAppBatch.csproj.CoreCompileInputs.cache
+C:\Users\GregoreK\Documents\GitHub\Lab01\Lab01\HelloConsoleAppBatch\obj\Debug\HelloConsoleAppBatch.exe
+C:\Users\GregoreK\Documents\GitHub\Lab01\Lab01\HelloConsoleAppBatch\obj\Debug\HelloConsoleAppBatch.pdb
