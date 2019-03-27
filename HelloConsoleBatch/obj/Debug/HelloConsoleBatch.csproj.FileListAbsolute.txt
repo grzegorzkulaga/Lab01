@@ -1,0 +1,6 @@
+C:\Users\GregoreK\source\repos\Lab01\HelloConsoleBatch\bin\Debug\HelloConsoleBatch.exe.config
+C:\Users\GregoreK\source\repos\Lab01\HelloConsoleBatch\bin\Debug\HelloConsoleBatch.exe
+C:\Users\GregoreK\source\repos\Lab01\HelloConsoleBatch\bin\Debug\HelloConsoleBatch.pdb
+C:\Users\GregoreK\source\repos\Lab01\HelloConsoleBatch\obj\Debug\HelloConsoleBatch.csproj.CoreCompileInputs.cache
+C:\Users\GregoreK\source\repos\Lab01\HelloConsoleBatch\obj\Debug\HelloConsoleBatch.exe
+C:\Users\GregoreK\source\repos\Lab01\HelloConsoleBatch\obj\Debug\HelloConsoleBatch.pdb
