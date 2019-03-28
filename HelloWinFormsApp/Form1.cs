@@ -31,15 +31,27 @@ namespace HelloWinFormsApp
         {
             labelKomunikat.Text = "Witaj, " + textBoxImie.Text + " " + textBoxNazwisko.Text;
 
-            int wiek = Convert.ToInt32(textBoxWiek.Text);
+            string age = textBoxWiek.Text;
 
-            if( wiek < 67 )
+            try
             {
-                labelKomunikat2.Text = string.Format(" do emerytury zostało Ci {0} lat", 67 - wiek);
+                int wiek = Int32.Parse(age);
+                if (wiek < 67)
+                {
+                    labelKomunikat2.Text = string.Format(" do emerytury zostało Ci {0} lat", 67 - wiek);
+                }
+                else
+                {
+                    labelKomunikat2.Text = " jesteś emerytem ";
+                }
             }
-            else
+            catch(FormatException)
             {
-                labelKomunikat2.Text = " jesteś emerytem ";
+                labelKomunikat2.Text = "Błędne dane ";
+            }
+            catch (OverflowException)
+            {
+                labelKomunikat2.Text = "Błędne dane ";
             }
         }
 
