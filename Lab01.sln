@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloConsoleApp", "HelloCon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloConsoleBatch", "HelloConsoleBatch\HelloConsoleBatch.csproj", "{8A693038-CF5A-45FA-9B89-9B2B92DD57C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWinFormsApp", "HelloWinFormsApp\HelloWinFormsApp.csproj", "{5180232F-6432-4938-9241-BA305D641448}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8A693038-CF5A-45FA-9B89-9B2B92DD57C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A693038-CF5A-45FA-9B89-9B2B92DD57C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A693038-CF5A-45FA-9B89-9B2B92DD57C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5180232F-6432-4938-9241-BA305D641448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5180232F-6432-4938-9241-BA305D641448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5180232F-6432-4938-9241-BA305D641448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5180232F-6432-4938-9241-BA305D641448}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

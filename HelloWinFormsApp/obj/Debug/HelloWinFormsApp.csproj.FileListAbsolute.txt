@@ -1,0 +1,10 @@
+C:\Users\GregoreK\Documents\GitHub\Lab01\Lab01\HelloWinFormsApp\bin\Debug\HelloWinFormsApp.exe.config
+C:\Users\GregoreK\Documents\GitHub\Lab01\Lab01\HelloWinFormsApp\bin\Debug\HelloWinFormsApp.exe
+C:\Users\GregoreK\Documents\GitHub\Lab01\Lab01\HelloWinFormsApp\bin\Debug\HelloWinFormsApp.pdb
+C:\Users\GregoreK\Documents\GitHub\Lab01\Lab01\HelloWinFormsApp\obj\Debug\HelloWinFormsApp.csprojAssemblyReference.cache
+C:\Users\GregoreK\Documents\GitHub\Lab01\Lab01\HelloWinFormsApp\obj\Debug\HelloWinFormsApp.Form1.resources
+C:\Users\GregoreK\Documents\GitHub\Lab01\Lab01\HelloWinFormsApp\obj\Debug\HelloWinFormsApp.Properties.Resources.resources
+C:\Users\GregoreK\Documents\GitHub\Lab01\Lab01\HelloWinFormsApp\obj\Debug\HelloWinFormsApp.csproj.GenerateResource.cache
+C:\Users\GregoreK\Documents\GitHub\Lab01\Lab01\HelloWinFormsApp\obj\Debug\HelloWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\GregoreK\Documents\GitHub\Lab01\Lab01\HelloWinFormsApp\obj\Debug\HelloWinFormsApp.exe
+C:\Users\GregoreK\Documents\GitHub\Lab01\Lab01\HelloWinFormsApp\obj\Debug\HelloWinFormsApp.pdb
